@@ -1,0 +1,17 @@
+## Functions ##
+
+DONE- Confirm connection to sccm server
+- Drivers
+  DONE- Get Data on drivers
+  DONE- Verify if model exists already
+    DONE- If yes, check if OS and arch exist
+      DONE- If yes - throw error
+      DONE- If no - Create folders for OS and Arch
+    DONE- If no, create folder structure
+  DONE- Move local source to folder structure
+  - Import into SCCM
+  DONE- Create Driver Package in SCCM
+  - Distribute
+  - Add to task sequences ??
+- Packages
+
