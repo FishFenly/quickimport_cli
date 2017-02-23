@@ -10,3 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Author:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Joseph Fenly </br>
 &nbsp;&nbsp;&nbsp;&nbsp;Created:&nbsp;&nbsp;&nbsp;&nbsp;2017-01-19 </br>
 &nbsp;&nbsp;&nbsp;&nbsp;Version:&nbsp;&nbsp;&nbsp;&nbsp;1.0 </br>
+
+Planned Changes:</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Allow import of multiple driver packages</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Import software packages as well as drivers</br>
